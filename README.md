@@ -8,10 +8,16 @@ Here are some ideas to get you started:
 -->
 - 👨🏻‍🔬 My collaboratiove project ...
   - [TMU_Seminar_TeamProject](https://github.com/KyusokLee/TMU_Seminar_TeamProject)
+  - [Xreal-IoT](https://github.com/bbtit/Xreal-IoT)
 - 🔭 I’m currently working on ...
   - " VR Surveillance System Assisted by Face Recognition in a Private 5G Environment " in TMU
 - 🌱 I’m currently learning ...
   - A system for identifying and tracking people by features other than face
+  - Ruby on Rails
+  - web application technology
+- 📚 Technical books to read now
+  - Writing An Interpreter In Go, Thorsten Ball
+  - Designing Data-Intensive Applications, Martin Kleppmann
 - 👯 I’m looking to collaborate on ...
   - Tracking system based on clothing color and features
 - 🤔 I’m looking for help with ...
